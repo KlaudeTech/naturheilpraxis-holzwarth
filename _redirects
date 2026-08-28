@@ -1,0 +1,25 @@
+# Weiterleitungen der alten IONOS-Seite (Stand 12.08.2026, live gecrawlt).
+# Die alte Seite nummerierte ihre Unterseiten durch (/2.html ... /16.html). Ohne diese
+# Zuordnung liefe nach dem Domain-Umzug jeder alte Google-Treffer und jedes gespeicherte
+# Lesezeichen in einen 404. 301 = dauerhaft, damit die Suchmaschine den Umzug uebernimmt.
+#
+# Themen, die sie nicht mehr anbietet (Farbtherapie, Fussreflexzonen, Sanguinum, Osteopathie,
+# Seminare, Kochtreff, Rezept der Woche), zeigen auf die naechstliegende bestehende Seite
+# statt ins Leere.
+
+/index.html            /                                   301
+/2.html                /leistungen/blutegeltherapie        301
+/3.html                /praxis                             301
+/4.html                /kontakt                            301
+/5.html                /therapien                          301
+/6.html                /radionik                           301
+/7.html                /therapien                          301
+/8.html                /praxis                             301
+/9.html                /therapien                          301
+/10.html               /praxis                             301
+/11.html               /therapien                          301
+/12.html               /                                   301
+/13.html               /homoeopathie                       301
+/14.html               /radionik                           301
+/15.html               /radionik                           301
+/16.html               /therapien                          301
